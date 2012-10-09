@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tsynth micro</string>
+    <string-array name="drawables">
+        <item>key</item>
+        <item>key_pushed</item>
+    </string-array>
+</resources>
